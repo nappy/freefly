@@ -1,5 +1,5 @@
 # RageMP freefly game mode
-6 degrees of freedom
+Allows to explore the map with 6 degrees of freedom
 
 ## Keybinds
 W / S - Forward / Back  
