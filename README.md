@@ -7,4 +7,6 @@ A / D - Left / Right
 [ / ] - Up / Down  
 Cursor X - Yaw  
 Cursor Y - Pitch  
-Mouse Wheel - Roll
+Mouse Wheel - Roll  
+
+CTRL - Fast / Slow
