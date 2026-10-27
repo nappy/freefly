@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "freefly",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "terminal.integrated.cwd": "${workspaceFolder:freefly}"
+  }
+}
